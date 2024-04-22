@@ -1,4 +1,5 @@
-上辺 = 10
-下辺 = 20
-高さ  = 5
-print(f"面積は{(上辺+下辺)*高さ/2}cm2です")
+uehen = 10
+sitahen = 20
+takasa = 5
+menseki = ((uehen+sitahen)*takasa/2)
+print(f"面積は{menseki}cm2です")
