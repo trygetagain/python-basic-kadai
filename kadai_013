@@ -1,0 +1,5 @@
+def product(price,tax):
+    total = price * tax
+    print(f"合計は{total})円です")
+
+product(100,1.1)
