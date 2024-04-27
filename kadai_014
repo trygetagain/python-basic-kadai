@@ -1,0 +1,7 @@
+>>> def total():
+        price1 = 100
+        price2 = 200
+        tax    = 1.1
+        goukei = (price1 + price2) * tax
+        print(f"{goukei}円")
+>>> total()
